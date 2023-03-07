@@ -21,7 +21,7 @@ float acessa (Matriz* mat, int i, int j) {
 }
 
 int linhas (Matriz* mat) {
-    printf("A matriz possui %d colunas!\n", mat -> lin);
+    printf("A matriz possui %d linhas!\n", mat -> lin);
 }
 
 void atribui (Matriz* mat, int i, int j, float x) {
